@@ -31,8 +31,10 @@
 
 ```bash
 npm install puppeteer
+```
 
 ### 3. 스크립트 실행
 
 ```bash
 node network_find_puppeteer.js
+```
